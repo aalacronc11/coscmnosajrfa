@@ -1,0 +1,23 @@
+{
+    "token":"ODgzMDg1MzY1ODYxMjk4MjM3.YTEzVg.Eytm5UxifiTn31BqiWRpTN32aIM",
+    "prefix":"$",
+    "imigrantID": "649046650907656233",
+    "obywatelID": "887097597993582642", 
+    "wlCheckersList": ["366557719853006848"],
+    "instagramChannel" : "736686739233570837",
+    "iconServerURL" : "url to icon",
+    "serverName" : "lolrp",
+    "ipServerWithPort" : "http://0.0.0.0/players.json",
+    "statusReadyDescribe" : "/100 | lolRP",
+    "statusExceptDescribe": "Server offline",
+    "reactionMessageID": "886187319030333472",
+    "twitterChannelID": "887102536308391976",
+    "darkwebChannelID": "887102576171048970",
+    "propozycjaChannelID": "736696563312623647",
+    "bladChannelID": "885905325532799057",
+    "otomotoChannelID": "887102641400844289",
+    "warnAdministrationList": ["366557719853006848"],
+    "joinMessageChannelID": "650881990341558302",
+    "serverDiscordID": "649039396426874880",
+    "embedMsgPermissionRolesID":["649042243403120668"]
+}
